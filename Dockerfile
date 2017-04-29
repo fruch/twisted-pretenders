@@ -1,6 +1,6 @@
 FROM pretenders/pretenders:1.4
 
-LABAL maintainer israel.fruchter@gmail.com
+MAINTAINER israel.fruchter@gmail.com
 
 ENV PYTHONPATH=/opt/pretenders
 ENV PKGS='alpine-sdk python3-dev'
